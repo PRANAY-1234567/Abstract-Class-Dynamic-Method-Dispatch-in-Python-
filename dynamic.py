@@ -2,7 +2,6 @@ from abc import ABC, abstractmethod
 
 import math
 
-# Abstract class
 class Shape(ABC):
     def __init__(self):
         self.dim1 = 0
