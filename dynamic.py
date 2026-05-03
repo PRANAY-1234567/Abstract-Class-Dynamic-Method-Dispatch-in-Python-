@@ -19,7 +19,6 @@ class Shape(ABC):
     def area(self):
         pass
 
-
 # Rectangle class
 class Rectangle(Shape):
     def area(self):
