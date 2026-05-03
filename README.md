@@ -34,7 +34,7 @@ This Python program demonstrates **Abstraction** and **Dynamic Method Dispatch**
 
 ### 2️⃣ Child Classes
 
-#### ▭ Rectangle
+####  Rectangle
 
 ```python
 area = length × breadth
