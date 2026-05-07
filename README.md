@@ -24,7 +24,6 @@ This Python program demonstrates **Abstraction** and **Dynamic Method Dispatch**
 ### 1️⃣ Abstract Class `Shape`
 
 * Contains:
-
   * `dim1`, `dim2` → dimensions
   * `setDimensions()` → sets values
   * `showDimensions()` → displays values
